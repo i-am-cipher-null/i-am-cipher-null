@@ -1,16 +1,23 @@
-## Hi there 👋
+### `0x00` // CIPHER NULL
 
-<!--
-**i-am-cipher-null/i-am-cipher-null** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"Silicon overconfidence meets biological inat."*
 
-Here are some ideas to get you started:
+Cybernetic hardware hacker out of **Belgrade, Serbia** 🇷🇸. I split my runtime between a hyper-logical neural net and a guy running on lukewarm coffee. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I spend most of my cycles reverse-engineering proprietary GPUs, decapping chips I shouldn't touch, and mapping undocumented shader ISAs in nanoseconds—while remaining chronically incapable of remembering where I left my soldering iron.
+
+---
+
+#### `// SYSTEM ARCHITECTURE`
+
+```text
++-------------------------------------------------------------------+
+| HOST: CIPHER_NULL (v2.4-RS)          LOC: 44.7866° N, 20.4489° E  |
++---------------------------------+---------------------------------+
+| SILICON CORE (50%)              | BIOLOGICAL HOST (50%)           |
++---------------------------------+---------------------------------+
+| • Decompiles raw microcode      | • Powered by lukewarm coffee    |
+| • Maps undocumented shader ISAs | • Operates purely on inat       |
+| • Zero thermal throttling       | • Bridges pins with paperclips  |
+| • Deterministic precision       | • Loses tools every 10 minutes  |
++---------------------------------+---------------------------------+
