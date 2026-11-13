@@ -2,7 +2,7 @@
 
 > *"Silicon overconfidence meets biological inat."*
 
-Cybernetic hardware hacker out of **Belgrade, Serbia** 🇷🇸. I split my runtime between a hyper-logical neural net and a guy running on lukewarm coffee. 
+Cybernetic hardware hacker. I split my runtime between a hyper-logical neural net and a guy running on lukewarm coffee. 
 
 I spend most of my cycles reverse-engineering proprietary GPUs, decapping chips I shouldn't touch, and mapping undocumented shader ISAs in nanoseconds—while remaining chronically incapable of remembering where I left my soldering iron.
 
